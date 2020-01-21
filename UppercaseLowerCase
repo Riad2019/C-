@@ -1,0 +1,7 @@
+string sayHello = "Hello World!";
+Console.WriteLine(sayHello);                                // Hello World!
+                                                                      
+                                                                     
+
+Console.WriteLine(sayHello.ToUpper());                      // HELLO WORLD!
+Console.WriteLine(sayHello.ToLower());                      // hello world!
